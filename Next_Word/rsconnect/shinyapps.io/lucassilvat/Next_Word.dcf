@@ -1,0 +1,12 @@
+name: Next_Word
+title: Next_Word
+username:
+account: lucassilvat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2500929
+bundleId: 3321866
+url: https://lucassilvat.shinyapps.io/Next_Word/
+when: 1593223237.32262
+asMultiple: FALSE
+asStatic: FALSE
